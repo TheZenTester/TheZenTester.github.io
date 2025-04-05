@@ -16,7 +16,7 @@ timezone: "America/Los_Angeles"
 
 title: thezentester # the main title
 
-tagline: cuz no one likes an anxious hacker # it will display as the subtitle
+tagline: because no one likes an anxious hacker # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
